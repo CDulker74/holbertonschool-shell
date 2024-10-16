@@ -1,2 +1,3 @@
-#!/bin/bashrep "root" /etc/passwd
+#!/bin/bash
+grep "root" /etc/passwd
 
